@@ -7,4 +7,4 @@ Created a website containing all the above prediction systems using Streamlit an
 <h3>Screenshots</h3>
 ![Screenshot 2024-02-20 072311](https://github.com/manishyerram89/MultiDiseasePred/assets/101630848/dd0f539e-5582-4f1e-8465-5899ecbb90a1)
 
-
+ 
